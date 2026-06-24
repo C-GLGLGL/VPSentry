@@ -31,7 +31,7 @@ With 10% label:
 [Res2Net-50]() and [PVTv2-B2]()
 
 # Acknowledgement
-Our work builds upon the excellent foundational research of [PNS+](https://github.com/GewelsJI/VPS) and [DPA]([https://github.com/hustvl/Vim](https://github.com/Hydragon516/DPA)). We thank the authors for their awesome works and publicly available codes.
+Our work builds upon the excellent foundational research of [PNS+](https://github.com/GewelsJI/VPS) and [DPA](https://github.com/Hydragon516/DPA). We thank the authors for their awesome works and publicly available codes.
 
 # Citation
 if you find our work useful, please cite:
