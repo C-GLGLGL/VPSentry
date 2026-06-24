@@ -27,10 +27,10 @@ python /..work_path../VPSentry/scripts/my_test.py
 We provide the relevant logs and ckpts (trained on SUN-SEG dataset) based on two different backbones:
 
 With 20% label:
-[Res2Net-50]() and [PVTv2-B2]()
+[Res2Net-50](https://github.com/C-GLGLGL/VPSentry/releases/download/logs_and_ckpts/SentryNet-res-20.zip) and [PVTv2-B2](https://github.com/C-GLGLGL/VPSentry/releases/download/logs_and_ckpts/SentryNet-pvt-20.zip)
 
 With 10% label:
-[Res2Net-50]() and [PVTv2-B2]()
+[Res2Net-50](https://github.com/C-GLGLGL/VPSentry/releases/download/logs_and_ckpts/SentryNet-res-10.zip) and [PVTv2-B2](https://github.com/C-GLGLGL/VPSentry/releases/download/logs_and_ckpts/SentryNet-pvt-10-zooming.zip)
 
 # Acknowledgement
 Our work builds upon the excellent foundational research of [PNS+](https://github.com/GewelsJI/VPS) and [DPA](https://github.com/Hydragon516/DPA). We thank the authors for their awesome works and publicly available codes.
