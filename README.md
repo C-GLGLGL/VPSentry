@@ -25,8 +25,10 @@ python /..work_path../VPSentry/scripts/my_test.py
 
 ### Logs and Weights
 We provide the relevant logs and ckpts (trained on SUN-SEG dataset) based on two different backbones:
+
 With 20% label:
 [Res2Net-50]() and [PVTv2-B2]()
+
 With 10% label:
 [Res2Net-50]() and [PVTv2-B2]()
 
